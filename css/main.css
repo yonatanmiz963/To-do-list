@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+section {
+    background-color: lightskyblue;
+    padding: 5px;
+}
